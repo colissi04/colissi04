@@ -1,5 +1,5 @@
 # 💫 About Me:
-📱 Desenvolvedor Mobile (React Native) na empresa 3SAT Tecnologia<br>📚 Experiência em Análise de Requisitos, QA Tester e Automações
+📱 Desenvolvedor Mobile (React Native) na empresa 3SAT Tecnologia<br>📚 Experiência em Desenvolimento Mobile, Análise de Requisitos, QA Tester e Automações
 
 
 ## 🌐 Socials:
